@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James McCorkindale
-- 👀 I’m interested in programming, 3D printing and dungeons and dragons!
-- 🌱 I’m currently working on my new project, Synthesis, a chemical structure, reactions and mechanisms drawing tool
+- 👀 I’m interested in programming, 3D printing and, dungeons and dragons!
+- 🌱 I’m currently working on my new project, Pseduo, a web app for making pseudo code
 - 📫 You can reach me by sending an email to jamesmccorkindale0@gmail.com, or by contacting me via my website - [jamesmccorkindale.co.uk](http://jamesmccorkindale.co.uk)
 
 <!---
